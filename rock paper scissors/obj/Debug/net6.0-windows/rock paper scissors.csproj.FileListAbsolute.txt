@@ -1,0 +1,35 @@
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.exe
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.deps.json
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.runtimeconfig.json
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.dll
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.pdb
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.csproj.AssemblyReference.cache
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock_paper_scissors.Form1.resources
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.csproj.GenerateResource.cache
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.AssemblyInfoInputs.cache
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.AssemblyInfo.cs
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.csproj.CoreCompileInputs.cache
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.dll
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\refint\rock paper scissors.dll
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.pdb
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.genruntimeconfig.cache
+C:\Users\harke\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\ref\rock paper scissors.dll
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.exe
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.deps.json
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.runtimeconfig.json
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.dll
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\bin\Debug\net6.0-windows\rock paper scissors.pdb
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.csproj.AssemblyReference.cache
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock_paper_scissors.Form1.resources
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.csproj.GenerateResource.cache
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.AssemblyInfoInputs.cache
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.AssemblyInfo.cs
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.csproj.CoreCompileInputs.cache
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.dll
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\refint\rock paper scissors.dll
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.pdb
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock paper scissors.genruntimeconfig.cache
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\ref\rock paper scissors.dll
+C:\Users\220865\OneDrive - wqeic.ac.uk\rock paper scissors\obj\Debug\net6.0-windows\rock_paper_scissors.Properties.Resources.resources
